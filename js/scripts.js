@@ -187,7 +187,7 @@ $(document).ready(function () {
             title: "Kiran and Ruju's Wedding",
 
             // Event start date
-            start: new Date('Aug 1, 2020 16:00'),
+            start: new Date('Aug 1, 2020 17:30'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
